@@ -1,0 +1,22 @@
+OpenAI response for Prompt: Jarvis using artificial intelligence write a program to sum two numbers 
+ ***********************
+
+Certainly! Here is an example program in Python to sum two numbers:
+
+```python
+# Function to sum two numbers
+def add_numbers(a, b):
+    return a + b
+
+# User input for numbers
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+
+# Calculate the sum
+sum_result = add_numbers(num1, num2)
+
+# Output the result
+print("The sum of", num1, "and", num2, "is:", sum_result)
+```
+
+To run this program, you can simply copy and paste it into a Python editor or use an Integrated Development Environment (IDE) to execute the code.

@@ -1,0 +1,4 @@
+# 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
+# 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
+#  todo: Add your api key here
+apikey = "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"
